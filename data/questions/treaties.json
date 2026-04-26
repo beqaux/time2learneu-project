@@ -1,0 +1,130 @@
+[
+  {
+    "id": "tr-mc-001",
+    "category": "treaties",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Hangi antlaşma Avrupa'da serbest dolaşım ilkesini hayata geçirmiştir?",
+    "options": ["Maastricht", "Schengen", "Amsterdam", "Nice"],
+    "correctAnswer": "Schengen",
+    "explanation": "Schengen Anlaşması (1985) AB sınırları içinde pasaportsuz seyahati mümkün kılmıştır."
+  },
+  {
+    "id": "tr-mc-002",
+    "category": "treaties",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Euro para birimini oluşturan antlaşma hangisidir?",
+    "options": ["Roma Antlaşması", "Maastricht Antlaşması", "Amsterdam Antlaşması", "Nice Antlaşması"],
+    "correctAnswer": "Maastricht Antlaşması",
+    "explanation": "Maastricht Antlaşması Ekonomik ve Parasal Birlik'i kurarak Euro'nun zeminini hazırlamıştır."
+  },
+  {
+    "id": "tr-mc-003",
+    "category": "treaties",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Nice Antlaşması hangi amaçla yapılmıştır?",
+    "options": ["Para birliği kurmak", "2004 genişlemesine zemin hazırlamak", "Schengen'i genişletmek", "Brexit'i düzenlemek"],
+    "correctAnswer": "2004 genişlemesine zemin hazırlamak",
+    "explanation": "Nice Antlaşması (2001) AB kurumlarını 2004'teki büyük genişlemeye hazırlamak için reform öngörmüştür."
+  },
+  {
+    "id": "tr-mc-004",
+    "category": "treaties",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Lizbon Antlaşması hangi yıl imzalanmıştır?",
+    "options": ["2004", "2005", "2007", "2009"],
+    "correctAnswer": "2007",
+    "explanation": "Lizbon Antlaşması 13 Aralık 2007'de imzalanmış, 1 Aralık 2009'da yürürlüğe girmiştir."
+  },
+  {
+    "id": "tr-mc-005",
+    "category": "treaties",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Avrupa Anayasa Antlaşması neden yürürlüğe girememiştir?",
+    "options": ["Almanya veto kullandı", "Fransa ve Hollanda referandumda reddetti", "İngiltere imzalamadı", "Avrupa Parlamentosu onaylamadı"],
+    "correctAnswer": "Fransa ve Hollanda referandumda reddetti",
+    "explanation": "2005'te Fransa ve Hollanda halkları referandumda Anayasa Antlaşması'nı reddetti, bu antlaşma yerine Lizbon Antlaşması yapıldı."
+  },
+  {
+    "id": "tr-ft-001",
+    "category": "treaties",
+    "type": "free-text",
+    "difficulty": "easy",
+    "question": "Pasaportsuz seyahati düzenleyen Avrupa anlaşmasının adı nedir?",
+    "correctAnswer": "Schengen Anlaşması",
+    "acceptableAnswers": ["Schengen", "schengen anlaşması"],
+    "explanation": "Schengen Anlaşması üye ülkeler arasındaki sınır kontrollerini kaldırmıştır."
+  },
+  {
+    "id": "tr-ft-002",
+    "category": "treaties",
+    "type": "free-text",
+    "difficulty": "medium",
+    "question": "AB'nin temel haklar belgesi nedir?",
+    "correctAnswer": "AB Temel Haklar Şartı",
+    "acceptableAnswers": ["Temel Haklar Şartı", "temel haklar şartı", "AB şartı"],
+    "explanation": "AB Temel Haklar Şartı, 2009'da Lizbon Antlaşması ile hukuki bağlayıcılık kazanmıştır."
+  },
+  {
+    "id": "tr-ft-003",
+    "category": "treaties",
+    "type": "free-text",
+    "difficulty": "hard",
+    "question": "Üye devletlerin AB'den çıkışını düzenleyen maddenin adı nedir?",
+    "correctAnswer": "Madde 50",
+    "acceptableAnswers": ["50. madde", "madde 50", "Lizbon 50"],
+    "explanation": "Lizbon Antlaşması'nın 50. Maddesi bir üye devletin AB'den çıkış prosedürünü düzenler."
+  },
+  {
+    "id": "tr-match-001",
+    "category": "treaties",
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Antlaşmaları imzalandıkları şehirlerle eşleştirin:",
+    "pairs": [
+      { "left": "AB Kurucu Antlaşma", "right": "Roma" },
+      { "left": "Serbest Dolaşım Anlaşması", "right": "Schengen" },
+      { "left": "AB'yi Kuran Antlaşma", "right": "Maastricht" },
+      { "left": "Reform Antlaşması", "right": "Lizbon" }
+    ],
+    "explanation": "Antlaşmalar genellikle imzalandıkları şehrin adıyla anılır."
+  },
+  {
+    "id": "tr-match-002",
+    "category": "treaties",
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "Antlaşmaların temel yeniliklerini eşleştirin:",
+    "pairs": [
+      { "left": "Maastricht (1993)", "right": "Euro ve Avrupa vatandaşlığı" },
+      { "left": "Amsterdam (1999)", "right": "Özgürlük, güvenlik, adalet alanı" },
+      { "left": "Nice (2003)", "right": "Genişleme için kurum reformu" },
+      { "left": "Lizbon (2009)", "right": "Konsey Başkanı ve Yüksek Temsilci" }
+    ],
+    "explanation": "Her antlaşma AB'ye önemli yenilikler kazandırmıştır."
+  },
+  {
+    "id": "tr-mc-006",
+    "category": "treaties",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "AB antlaşmalarında değişiklik yapmak için ne gerekir?",
+    "options": ["Komisyon kararı", "Parlamento oylaması", "Tüm üye devletlerin onayı", "Vatandaş referandumu"],
+    "correctAnswer": "Tüm üye devletlerin onayı",
+    "explanation": "AB antlaşma değişiklikleri tüm üye devletlerin parlamentoları veya referandumları aracılığıyla onaylanmalıdır."
+  },
+  {
+    "id": "tr-mc-007",
+    "category": "treaties",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "İlk genişleme antlaşması hangi ülkeleri AB'ye katmıştır?",
+    "options": ["İspanya, Portekiz", "İngiltere, İrlanda, Danimarka", "Yunanistan, İspanya", "Polonya, Çekya"],
+    "correctAnswer": "İngiltere, İrlanda, Danimarka",
+    "explanation": "1973'teki ilk genişlemede İngiltere, İrlanda ve Danimarka AB'ye katılmıştır."
+  }
+]

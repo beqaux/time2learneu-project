@@ -1,0 +1,131 @@
+[
+  {
+    "id": "inst-mc-001",
+    "category": "institutions",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa Parlamentosu nerede toplanır?",
+    "options": ["Brüksel", "Strasbourg", "Lüksemburg", "Amsterdam"],
+    "correctAnswer": "Strasbourg",
+    "explanation": "Avrupa Parlamentosu'nun resmi toplantı yeri Fransa'nın Strasbourg şehridir."
+  },
+  {
+    "id": "inst-mc-002",
+    "category": "institutions",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa Komisyonu'nun görevi nedir?",
+    "options": ["Yasa yapmak", "AB'yi yönetmek ve antlaşmaları uygulamak", "Üye devletleri temsil etmek", "Bütçeyi onaylamak"],
+    "correctAnswer": "AB'yi yönetmek ve antlaşmaları uygulamak",
+    "explanation": "Avrupa Komisyonu, AB'nin yürütme organı olup antlaşmaların uygulanmasını denetler."
+  },
+  {
+    "id": "inst-mc-003",
+    "category": "institutions",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Avrupa Merkez Bankası hangi şehirde bulunmaktadır?",
+    "options": ["Brüksel", "Frankfurt", "Paris", "Viyana"],
+    "correctAnswer": "Frankfurt",
+    "explanation": "Avrupa Merkez Bankası, Almanya'nın Frankfurt şehrinde bulunmaktadır."
+  },
+  {
+    "id": "inst-mc-004",
+    "category": "institutions",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Avrupa Birliği Adalet Divanı hangi şehirde bulunur?",
+    "options": ["Brüksel", "Strasbourg", "Lüksemburg", "Lahey"],
+    "correctAnswer": "Lüksemburg",
+    "explanation": "AB Adalet Divanı, Lüksemburg'da bulunmakta ve AB hukukunu yorumlamaktadır."
+  },
+  {
+    "id": "inst-mc-005",
+    "category": "institutions",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Avrupa Konseyi Başkanı kim seçer?",
+    "options": ["Avrupa Parlamentosu", "Avrupa Komisyonu", "Nitelikli çoğunlukla üye devletler", "Vatandaşlar doğrudan"],
+    "correctAnswer": "Nitelikli çoğunlukla üye devletler",
+    "explanation": "Avrupa Konseyi Başkanı, üye devlet hükümet ve devlet başkanlarından oluşan Konsey tarafından nitelikli çoğunlukla seçilir."
+  },
+  {
+    "id": "inst-ft-001",
+    "category": "institutions",
+    "type": "free-text",
+    "difficulty": "easy",
+    "question": "AB'nin yasama organının adı nedir? (Doğrudan halk tarafından seçilir)",
+    "correctAnswer": "Avrupa Parlamentosu",
+    "acceptableAnswers": ["Avrupa parlamentosu", "AP"],
+    "explanation": "Avrupa Parlamentosu, AB vatandaşları tarafından doğrudan seçilen tek AB kurumudur."
+  },
+  {
+    "id": "inst-ft-002",
+    "category": "institutions",
+    "type": "free-text",
+    "difficulty": "medium",
+    "question": "AB'nin para politikasını yöneten bağımsız kurum hangisidir?",
+    "correctAnswer": "Avrupa Merkez Bankası",
+    "acceptableAnswers": ["AMB", "merkez bankası", "Avrupa merkez bankası"],
+    "explanation": "Avrupa Merkez Bankası Euro bölgesinin para politikasından sorumludur."
+  },
+  {
+    "id": "inst-ft-003",
+    "category": "institutions",
+    "type": "free-text",
+    "difficulty": "hard",
+    "question": "AB'nin dış ilişkiler ve güvenlik politikasını koordine eden makamın tam adı nedir?",
+    "correctAnswer": "Dışişleri ve Güvenlik Politikası Yüksek Temsilcisi",
+    "acceptableAnswers": ["Yüksek Temsilci", "AB Dışişleri Bakanı"],
+    "explanation": "Bu makam hem Komisyon Başkan Yardımcılığı hem de Konsey'e karşı sorumludur."
+  },
+  {
+    "id": "inst-match-001",
+    "category": "institutions",
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "AB kurumlarını bulundukları şehirlerle eşleştirin:",
+    "pairs": [
+      { "left": "Avrupa Parlamentosu", "right": "Strasbourg" },
+      { "left": "Avrupa Merkez Bankası", "right": "Frankfurt" },
+      { "left": "Adalet Divanı", "right": "Lüksemburg" },
+      { "left": "Avrupa Komisyonu", "right": "Brüksel" }
+    ],
+    "explanation": "AB kurumları farklı ülkelerdeki şehirlere dağıtılmıştır."
+  },
+  {
+    "id": "inst-match-002",
+    "category": "institutions",
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "AB kurumlarını işlevleriyle eşleştirin:",
+    "pairs": [
+      { "left": "Avrupa Komisyonu", "right": "Yürütme organı" },
+      { "left": "Avrupa Parlamentosu", "right": "Yasama organı" },
+      { "left": "Adalet Divanı", "right": "Yargı organı" },
+      { "left": "Sayıştay", "right": "Denetim organı" },
+      { "left": "Avrupa Konseyi", "right": "Üye devletleri temsil eder" }
+    ],
+    "explanation": "Her AB kurumunun belirlenmiş bir işlevi bulunmaktadır."
+  },
+  {
+    "id": "inst-mc-006",
+    "category": "institutions",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa Parlamentosu'nun kaç üyesi vardır?",
+    "options": ["450", "705", "750", "850"],
+    "correctAnswer": "705",
+    "explanation": "Avrupa Parlamentosu 2024 itibarıyla 705 milletvekilinden oluşmaktadır (Brexit sonrası)."
+  },
+  {
+    "id": "inst-mc-007",
+    "category": "institutions",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Hangi AB kurumu üye devletlerin hükümet başkanlarından oluşur?",
+    "options": ["Avrupa Komisyonu", "Avrupa Parlamentosu", "Avrupa Konseyi", "Adalet Divanı"],
+    "correctAnswer": "Avrupa Konseyi",
+    "explanation": "Avrupa Konseyi, üye devletlerin devlet ve hükümet başkanlarından oluşur."
+  }
+]

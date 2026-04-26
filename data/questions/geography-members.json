@@ -1,0 +1,132 @@
+[
+  {
+    "id": "gm-mc-001",
+    "category": "geography-members",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "2024 itibarıyla AB'nin kaç üye devleti vardır?",
+    "options": ["25", "27", "28", "30"],
+    "correctAnswer": "27",
+    "explanation": "Brexit sonrası AB 27 üye devletten oluşmaktadır."
+  },
+  {
+    "id": "gm-mc-002",
+    "category": "geography-members",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Aşağıdakilerden hangisi bir AB üyesi DEĞİLDİR?",
+    "options": ["Norveç", "Polonya", "Romanya", "Portekiz"],
+    "correctAnswer": "Norveç",
+    "explanation": "Norveç AB'ye üye değildir, ancak Avrupa Ekonomik Alanı (AEA) kapsamında AB tek pazarına katılmaktadır."
+  },
+  {
+    "id": "gm-mc-003",
+    "category": "geography-members",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Hangi ülkeler 2004 yılında AB'ye üye olmuştur?",
+    "options": ["Bulgaristan ve Romanya", "10 Orta ve Doğu Avrupa ülkesi", "Hırvatistan", "Malta ve Kıbrıs"],
+    "correctAnswer": "10 Orta ve Doğu Avrupa ülkesi",
+    "explanation": "2004'te 10 ülke AB'ye katılmıştır: Polonya, Çekya, Macaristan, Slovakya, Slovenya, Estonya, Letonya, Litvanya, Malta ve Kıbrıs."
+  },
+  {
+    "id": "gm-mc-004",
+    "category": "geography-members",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "AB'ye en son katılan ülke hangisidir?",
+    "options": ["Bulgaristan", "Romanya", "Hırvatistan", "Kuzey Makedonya"],
+    "correctAnswer": "Hırvatistan",
+    "explanation": "Hırvatistan 1 Temmuz 2013'te AB'ye katılarak en son üye olan ülke olmuştur."
+  },
+  {
+    "id": "gm-mc-005",
+    "category": "geography-members",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Hangi AB üye devleti ada ülkesidir?",
+    "options": ["Lüksemburg", "Avusturya", "Malta", "Çekya"],
+    "correctAnswer": "Malta",
+    "explanation": "Malta, Akdeniz'de küçük bir ada devleti olup 2004'te AB'ye katılmıştır."
+  },
+  {
+    "id": "gm-ft-001",
+    "category": "geography-members",
+    "type": "free-text",
+    "difficulty": "easy",
+    "question": "AB'nin en büyük üye devleti (nüfus bakımından) hangisidir?",
+    "correctAnswer": "Almanya",
+    "acceptableAnswers": ["almanya", "Deutschland"],
+    "explanation": "Almanya yaklaşık 84 milyon nüfusuyla AB'nin en kalabalık üye devletidir."
+  },
+  {
+    "id": "gm-ft-002",
+    "category": "geography-members",
+    "type": "free-text",
+    "difficulty": "medium",
+    "question": "AB'nin fiili başkenti sayılan Belçika şehri hangisidir?",
+    "correctAnswer": "Brüksel",
+    "acceptableAnswers": ["brüksel", "Brussels"],
+    "explanation": "Brüksel, AB Komisyonu ve Konsey başta olmak üzere pek çok AB kurumuna ev sahipliği yapmaktadır."
+  },
+  {
+    "id": "gm-ft-003",
+    "category": "geography-members",
+    "type": "free-text",
+    "difficulty": "hard",
+    "question": "Hangi Baltic (Baltık) ülkesi AB'ye 2004'te katılmıştır? (Üç ülkeden birinin adını yazın)",
+    "correctAnswer": "Estonya",
+    "acceptableAnswers": ["Letonya", "Litvanya", "estonya", "letonya", "litvanya"],
+    "explanation": "Estonya, Letonya ve Litvanya üçü birden 2004 yılında AB'ye üye olmuştur."
+  },
+  {
+    "id": "gm-match-001",
+    "category": "geography-members",
+    "type": "matching",
+    "difficulty": "easy",
+    "question": "Ülkeleri başkentleriyle eşleştirin:",
+    "pairs": [
+      { "left": "Fransa", "right": "Paris" },
+      { "left": "İspanya", "right": "Madrid" },
+      { "left": "Polonya", "right": "Varşova" },
+      { "left": "Hollanda", "right": "Amsterdam" },
+      { "left": "Avusturya", "right": "Viyana" }
+    ],
+    "explanation": "AB üye devletlerinin başkentlerini tanımak temel bir bilgidir."
+  },
+  {
+    "id": "gm-match-002",
+    "category": "geography-members",
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "Ülkeleri AB'ye katıldıkları yıllarla eşleştirin:",
+    "pairs": [
+      { "left": "Yunanistan", "right": "1981" },
+      { "left": "İspanya ve Portekiz", "right": "1986" },
+      { "left": "Finlandiya", "right": "1995" },
+      { "left": "Bulgaristan ve Romanya", "right": "2007" },
+      { "left": "Hırvatistan", "right": "2013" }
+    ],
+    "explanation": "AB genişleme dalgaları farklı yıllarda gerçekleşmiştir."
+  },
+  {
+    "id": "gm-mc-006",
+    "category": "geography-members",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Hangi ülke Euro'yu kullanmayan büyük bir AB üyesidir?",
+    "options": ["Fransa", "İtalya", "İsveç", "Almanya"],
+    "correctAnswer": "İsveç",
+    "explanation": "İsveç, Euro bölgesine katılma hakkı olmasına rağmen referandumla kendi para birimi Kronunu korumayı seçmiştir."
+  },
+  {
+    "id": "gm-mc-007",
+    "category": "geography-members",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Aşağıdaki ülkelerden hangisi aday ülke statüsündedir (2024)?",
+    "options": ["Norveç", "İsviçre", "Ukrayna", "İngiltere"],
+    "correctAnswer": "Ukrayna",
+    "explanation": "Ukrayna, Haziran 2022'de AB aday ülkesi statüsü kazanmıştır."
+  }
+]

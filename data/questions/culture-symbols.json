@@ -1,0 +1,130 @@
+[
+  {
+    "id": "cs-mc-001",
+    "category": "culture-symbols",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa Birliği bayrağında kaç yıldız bulunmaktadır?",
+    "options": ["10", "12", "15", "27"],
+    "correctAnswer": "12",
+    "explanation": "AB bayrağında üye sayısından bağımsız olarak mükemmelliği ve bütünlüğü simgeleyen 12 yıldız bulunur."
+  },
+  {
+    "id": "cs-mc-002",
+    "category": "culture-symbols",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa Birliği'nin resmi marşı hangisidir?",
+    "options": ["La Marseillaise", "Neşeye Övgü (Ode to Joy)", "Rule Britannia", "Ode an die Freude"],
+    "correctAnswer": "Neşeye Övgü (Ode to Joy)",
+    "explanation": "Beethoven'ın 9. Senfonisi'nden alınan 'Ode to Joy' AB'nin resmi marşıdır."
+  },
+  {
+    "id": "cs-mc-003",
+    "category": "culture-symbols",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "AB'nin temel sloganı nedir?",
+    "options": ["Birlik, Özgürlük, Kardeşlik", "Çeşitlilik içinde birlik", "Özgür ve güçlü", "Barış, ilerleme, refah"],
+    "correctAnswer": "Çeşitlilik içinde birlik",
+    "explanation": "'Çeşitlilik içinde birlik' sloganı AB'nin farklı kültürler ve dilleri kapsayan ortak kimliğini yansıtır."
+  },
+  {
+    "id": "cs-mc-004",
+    "category": "culture-symbols",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Avrupa Günü hangi tarihte kutlanır?",
+    "options": ["1 Ocak", "25 Mart", "9 Mayıs", "1 Kasım"],
+    "correctAnswer": "9 Mayıs",
+    "explanation": "9 Mayıs Avrupa Günü, Robert Schuman'ın 1950'deki tarihi bildirisini anmaktadır."
+  },
+  {
+    "id": "cs-mc-005",
+    "category": "culture-symbols",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "AB bayrağındaki mavi renk neyi simgeler?",
+    "options": ["Denizi", "Barış ve istikrarı", "Gökyüzünü ve batı değerlerini", "Birliği"],
+    "correctAnswer": "Barış ve istikrarı",
+    "explanation": "AB bayrağındaki mavi renk Batı'nın ortak değerleri olan barış ve istikrarı, yıldızlar ise üye devletlerin birliğini simgeler."
+  },
+  {
+    "id": "cs-ft-001",
+    "category": "culture-symbols",
+    "type": "free-text",
+    "difficulty": "easy",
+    "question": "AB bayrağında yıldızlar hangi renktedir?",
+    "correctAnswer": "Sarı",
+    "acceptableAnswers": ["sarı", "altın sarısı", "gold"],
+    "explanation": "AB bayrağındaki 12 yıldız sarı/altın rengindendir, arka plan ise koyu mavidir."
+  },
+  {
+    "id": "cs-ft-002",
+    "category": "culture-symbols",
+    "type": "free-text",
+    "difficulty": "medium",
+    "question": "Robert Schuman hangi ülkenin Dışişleri Bakanı iken AB'nin temellerini attı?",
+    "correctAnswer": "Fransa",
+    "acceptableAnswers": ["fransa", "Fransız"],
+    "explanation": "Fransız Dışişleri Bakanı Robert Schuman, 9 Mayıs 1950'de Schuman Bildirisi'ni sunmuştur."
+  },
+  {
+    "id": "cs-ft-003",
+    "category": "culture-symbols",
+    "type": "free-text",
+    "difficulty": "hard",
+    "question": "AB'nin resmi marşı hangi bestecinin eserinden alınmıştır?",
+    "correctAnswer": "Beethoven",
+    "acceptableAnswers": ["beethoven", "Ludwig van Beethoven"],
+    "explanation": "AB marşı Ludwig van Beethoven'ın 9. Senfonisi'nin 4. bölümünden alınmıştır."
+  },
+  {
+    "id": "cs-match-001",
+    "category": "culture-symbols",
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "AB sembollerini anlamlarıyla eşleştirin:",
+    "pairs": [
+      { "left": "12 yıldız", "right": "Mükemmellik ve bütünlük" },
+      { "left": "Mavi arka plan", "right": "Barış ve istikrar" },
+      { "left": "Ode to Joy", "right": "Resmi marş" },
+      { "left": "9 Mayıs", "right": "Avrupa Günü" }
+    ],
+    "explanation": "AB'nin sembolleri ortak değerleri yansıtmak üzere tasarlanmıştır."
+  },
+  {
+    "id": "cs-match-002",
+    "category": "culture-symbols",
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "AB'nin kurucu babalarını ülkeleriyle eşleştirin:",
+    "pairs": [
+      { "left": "Robert Schuman", "right": "Fransa" },
+      { "left": "Konrad Adenauer", "right": "Almanya" },
+      { "left": "Alcide De Gasperi", "right": "İtalya" },
+      { "left": "Jean Monnet", "right": "Fransa (planlamacı)" }
+    ],
+    "explanation": "Bu dört isim, Avrupa bütünleşmesinin öncü mimarları olarak kabul edilir."
+  },
+  {
+    "id": "cs-mc-006",
+    "category": "culture-symbols",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "AB'nin para birimi hangisidir?",
+    "options": ["Pound", "Dolar", "Euro", "Frank"],
+    "correctAnswer": "Euro",
+    "explanation": "Euro, 1999'da elektronik ortamda, 2002'de fiziksel para olarak dolaşıma girmiştir."
+  },
+  {
+    "id": "cs-mc-007",
+    "category": "culture-symbols",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Erasmus+ programı ne ile ilgilidir?",
+    "options": ["Tarım politikası", "Eğitim ve gençlik değişimi", "Ticaret anlaşmaları", "Sınır güvenliği"],
+    "correctAnswer": "Eğitim ve gençlik değişimi",
+    "explanation": "Erasmus+ AB'nin öğrenci ve öğretmen değişimini destekleyen eğitim programıdır."
+  }
+]

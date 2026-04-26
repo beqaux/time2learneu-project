@@ -1,0 +1,131 @@
+[
+  {
+    "id": "eh-mc-001",
+    "category": "eu-history",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa Birliği hangi yıl resmi olarak kurulmuştur?",
+    "options": ["1945", "1957", "1993", "2004"],
+    "correctAnswer": "1993",
+    "explanation": "Avrupa Birliği, 1 Kasım 1993 tarihinde Maastricht Antlaşması'nın yürürlüğe girmesiyle resmen kurulmuştur."
+  },
+  {
+    "id": "eh-mc-002",
+    "category": "eu-history",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa'da ekonomik işbirliğinin temeli hangi toplulukla atılmıştır?",
+    "options": ["Avrupa Birliği", "Avrupa Kömür ve Çelik Topluluğu", "NATO", "Avrupa Konseyi"],
+    "correctAnswer": "Avrupa Kömür ve Çelik Topluluğu",
+    "explanation": "Avrupa Kömür ve Çelik Topluluğu (AKÇT) 1951'de kurularak AB'nin temelini oluşturmuştur."
+  },
+  {
+    "id": "eh-mc-003",
+    "category": "eu-history",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Roma Antlaşması hangi yıl imzalanmıştır?",
+    "options": ["1951", "1957", "1963", "1973"],
+    "correctAnswer": "1957",
+    "explanation": "Roma Antlaşması 25 Mart 1957'de imzalanmış, AET ve Euratom'u kurmuştur."
+  },
+  {
+    "id": "eh-mc-004",
+    "category": "eu-history",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "İngiltere hangi yıl AB'den çıkmıştır (Brexit)?",
+    "options": ["2016", "2019", "2020", "2021"],
+    "correctAnswer": "2020",
+    "explanation": "Brexit, 31 Ocak 2020 tarihinde gerçekleşmiş ve İngiltere resmi olarak AB'den ayrılmıştır."
+  },
+  {
+    "id": "eh-mc-005",
+    "category": "eu-history",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Avrupa Tek Senedi hangi yıl yürürlüğe girmiştir?",
+    "options": ["1985", "1986", "1987", "1992"],
+    "correctAnswer": "1987",
+    "explanation": "Avrupa Tek Senedi 1 Temmuz 1987'de yürürlüğe girmiş, iç pazarın tamamlanmasını hedeflemiştir."
+  },
+  {
+    "id": "eh-ft-001",
+    "category": "eu-history",
+    "type": "free-text",
+    "difficulty": "easy",
+    "question": "Avrupa Birliği'nin temeli sayılan antlaşmanın adı nedir? (Roma'da imzalanmıştır)",
+    "correctAnswer": "Roma Antlaşması",
+    "acceptableAnswers": ["Roma antlaşması", "roma anlaşması", "Roma Anlaşması"],
+    "explanation": "Roma Antlaşması 1957'de imzalanmış ve Avrupa Ekonomik Topluluğu'nu kurmuştur."
+  },
+  {
+    "id": "eh-ft-002",
+    "category": "eu-history",
+    "type": "free-text",
+    "difficulty": "medium",
+    "question": "Avrupa Birliği'nin resmen kurulduğu antlaşmanın adı nedir?",
+    "correctAnswer": "Maastricht Antlaşması",
+    "acceptableAnswers": ["Maastricht", "maastricht antlaşması"],
+    "explanation": "Maastricht Antlaşması 1992'de imzalanmış, 1993'te yürürlüğe girerek AB'yi kurmuştur."
+  },
+  {
+    "id": "eh-ft-003",
+    "category": "eu-history",
+    "type": "free-text",
+    "difficulty": "hard",
+    "question": "AB'nin günümüzdeki anayasal temelini oluşturan antlaşma hangisidir?",
+    "correctAnswer": "Lizbon Antlaşması",
+    "acceptableAnswers": ["Lizbon", "lizbon antlaşması"],
+    "explanation": "Lizbon Antlaşması 2007'de imzalanmış, 2009'da yürürlüğe girmiştir."
+  },
+  {
+    "id": "eh-match-001",
+    "category": "eu-history",
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Antlaşmaları yürürlüğe girdikleri yıllarla eşleştirin:",
+    "pairs": [
+      { "left": "Roma Antlaşması", "right": "1957" },
+      { "left": "Maastricht Antlaşması", "right": "1993" },
+      { "left": "Amsterdam Antlaşması", "right": "1999" },
+      { "left": "Lizbon Antlaşması", "right": "2009" }
+    ],
+    "explanation": "Bu antlaşmalar AB'nin temel yasal çerçevesini oluşturmuştur."
+  },
+  {
+    "id": "eh-match-002",
+    "category": "eu-history",
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "Kurucu üye devletleri başkentleriyle eşleştirin:",
+    "pairs": [
+      { "left": "Fransa", "right": "Paris" },
+      { "left": "Almanya", "right": "Berlin" },
+      { "left": "İtalya", "right": "Roma" },
+      { "left": "Belçika", "right": "Brüksel" },
+      { "left": "Hollanda", "right": "Amsterdam" }
+    ],
+    "explanation": "Bu 6 ülke 1957'de Roma Antlaşması'nı imzalayan kurucu üyelerdir (Lüksemburg ile birlikte)."
+  },
+  {
+    "id": "eh-mc-006",
+    "category": "eu-history",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Avrupa Birliği'nin kurucu üye sayısı kaçtır?",
+    "options": ["4", "6", "9", "12"],
+    "correctAnswer": "6",
+    "explanation": "AB 6 kurucu üyeyle başlamıştır: Fransa, Almanya, İtalya, Belçika, Hollanda ve Lüksemburg."
+  },
+  {
+    "id": "eh-mc-007",
+    "category": "eu-history",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Schengen Anlaşması ilk olarak hangi yılda imzalanmıştır?",
+    "options": ["1983", "1985", "1990", "1995"],
+    "correctAnswer": "1985",
+    "explanation": "Schengen Anlaşması 14 Haziran 1985'te Lüksemburg'un Schengen kasabasında imzalanmıştır."
+  }
+]
