@@ -122,6 +122,12 @@ Tarayıcıda **http://localhost:3000** adresini aç — proje karşında.
 - **Küçük değişiklikler** (renk, metin, küçük tweakler): sağdaki AI paneline ne istediğini yaz, AI ilgili dosyayı düzenler.
 - **Büyük yeni özellikler:** **mutlaka** `plan my project:` ile başla. Referans dosyalarını sağdaki panele sürüklemeyi unutma — yoksa AI bağlamı kaybeder ve yanlış yere gider.
 
+  Sol taraftaki dosya menüsünde şu dosyaları bul:
+
+- `references/`
+- `README.md`
+- `skill.md`
+
 ---
 
 ## Günlük kullanım ipuçları
